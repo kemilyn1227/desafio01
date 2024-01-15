@@ -32,6 +32,7 @@ const handleAddNumber = (num) =>{
 
 }
 
+
 const handleSumNumbers = () =>{
   if(firstNumber === '0'){
     setFirstNumber(String(currentNumber));
